@@ -1,12 +1,30 @@
 # 💫 About Me:
-I 'm currently working on my own projects<br>i'm currently learning about data science and machine learning<br>I plan to learn software development<br>I am currently learning electronic design<br>electronic engineering undergraduate student<br>
+I'm in the final stage of my Electronic Engineering degree and passionate about embedded systems development, especially using C, and Python. I have hands-on experience in electronic circuit design, and I'm expanding my skills in embedded Linux and software development.<br>
+Currently, I'm learning about data science and machine learning, while also deepening my understanding of backend development. I enjoy working on personal projects that combine hardware and software, and I’m always looking to grow as a developer and engineer.
+🔧 Interests & Skills:
 
+Embedded Systems Development (C, C++, Python, Linux)<br>
+Electronic Design (Analog & Digital Circuits, PCB Design)<br>
+Basic Backend Development (Python, APIs)<br>
+Data Science & Machine Learning (in progress)<br>
+Linux for Embedded Applications(in progress)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/carlos-s-rangel) 
 
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB3?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF6F00?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Carclox&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Carclox&theme=algolia&hide_border=false)<br/>
