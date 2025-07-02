@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm in the final stage of my Electronic Engineering degree and passionate about embedded systems development, especially using C, and Python. I have hands-on experience in electronic circuit design, and I'm expanding my skills in embedded Linux and software development.<br>
-Currently, I'm learning about data science and machine learning, while also deepening my understanding of backend development. I enjoy working on personal projects that combine hardware and software, and I’m always looking to grow as a developer and engineer.
-🔧 Interests & Skills:
+Currently, I'm learning about data science and machine learning, while also deepening my understanding of backend development. I enjoy working on personal projects that combine hardware and software, and I’m always looking to grow as a developer and engineer.<br>
+## 🔧 Interests & Skills:
 
 Embedded Systems Development (C, C++, Python, Linux)<br>
 Electronic Design (Analog & Digital Circuits, PCB Design)<br>
@@ -10,7 +10,8 @@ Data Science & Machine Learning (in progress)<br>
 Linux for Embedded Applications(in progress)<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/carlos-s-rangel) 
+[![LinkedIn](https://www.linkedin.com/in/carlos-s-rangel)]
+
 
 
 # 💻 Tech Stack:
